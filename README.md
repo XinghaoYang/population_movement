@@ -8,4 +8,4 @@ The three domain data are contained in ```2015-House data-EconomyIndustry-Crime-
 ### Multi-domain matrix factorization
 Run ```ComputeV0.m``` to calculate the common part of the factorization result.
 ### Population movement estimation 
-Run ```MovementEstimation.m``` estimate the SOURCE and DESTINATION results.
+Run ```MovementEstimation.m``` to estimate the SOURCE and DESTINATION results.
